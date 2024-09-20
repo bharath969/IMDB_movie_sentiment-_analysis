@@ -22,7 +22,7 @@ The sentiment analysis model leverages a Simple RNN to process and classify movi
 - * **RNN Model**: A Simple Recurrent Neural Network built to handle sequential text data.
 
 ### Evaluation Metrics
-Model accuracy, loss, and confusion matrix are used to evaluate the model’s performance.
+* Model accuracy, loss, and confusion matrix are used to evaluate the model’s performance.
 
   
 ## Conclusions
